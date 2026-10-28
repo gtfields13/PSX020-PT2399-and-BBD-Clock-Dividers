@@ -1,0 +1,7 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+C1,1,0.1µF,,,,Capacitor_SMD:C_0805_2012Metric,
+J1,1,Main,DNP,,,Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,
+R1,1,220R,,,,Resistor_SMD:R_0603_1608Metric,
+"U1,U2",2,74HC393M96,,,,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,
+U3,1,74HC390M96,,,,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,
+U4,1,74HC74,,,,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,74xx/74hc_hct74.pdf
